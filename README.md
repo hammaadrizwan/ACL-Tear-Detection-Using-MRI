@@ -25,6 +25,11 @@ The motivation behind this project stems from the need to address the high preva
 - The developed system has the potential to streamline the diagnostic process, leading to faster turnaround times for patients awaiting treatment.
 - By improving the accuracy of ACL tear detection, the project aims to enhance the overall quality of care provided to athletes and individuals at risk of knee injuries.
 
+## Evaluation Metrics (Area under the curve):
+Training Set: 0.8669
+Validation set: 0.8850
+Test Set :0.95
+
 ## Future Directions:
 - Expand the scope of the project to include other knee-related injuries and conditions, such as meniscal tears or ligament sprains.
 - Collaborate with medical institutions and sports organizations to integrate the developed system into clinical practice and athletic training programs.
